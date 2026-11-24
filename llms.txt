@@ -1,0 +1,12 @@
+# ダイエット・栄養学アカデミー - 科学的根拠に基づく食事管理
+
+> ダイエット・栄養学アカデミー - カロリー収支・三大栄養素・食事管理・運動・サプリメントまで、科学的根拠に基づく食事管理と体づくりを体系的に学べるプラットフォーム。
+
+## Main Pages
+
+- [diet academy](https://musclelove-777.github.io/diet-academy/): main page of ダイエット・栄養学アカデミー - 科学的根拠に基づく食事管理.
+
+## About this file
+
+This llms.txt follows the llmstxt.org proposal and lists the main entry points of this site for LLM-based crawlers and AI search agents.
+Generated automatically from sitemap.xml. Source repository: https://github.com/MuscleLove-777/diet-academy
